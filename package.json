@@ -1,0 +1,25 @@
+{
+  "name": "playwright-ai-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhantnguyen2709/Playwright-AI-Content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nhantnguyen2709/Playwright-AI-Content/issues"
+  },
+  "homepage": "https://github.com/nhantnguyen2709/Playwright-AI-Content#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^24.0.1",
+    "playwright": "^1.53.0",
+    "typescript": "^5.8.3"
+  }
+}
